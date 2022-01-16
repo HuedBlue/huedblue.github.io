@@ -1,0 +1,110 @@
+body {
+
+	background: rgb(237, 95, 85);
+
+}
+
+header{
+
+	font-family: impact;
+	color: rgb(256, 256, 256);
+    
+    margin: auto;
+    width: 50%;
+
+    text-align: center;
+
+    font-size: 1.3em;
+
+}
+
+span{ /* The Individual Navigator Elements */
+
+	font-family: monospace;
+
+	font-size: 15px;
+}
+
+#left{
+
+	position: relative;
+
+	left: -20px;
+
+}
+
+#right{
+
+	position: relative;
+
+	right: -20px;
+
+}
+
+
+
+article {
+
+	font-family: didot;
+
+	line-height: 1.6em;
+
+	font-size: 20px;
+
+	background: white;
+
+	border: 20px rgb(0, 0, 0);
+    
+    border-style: solid;
+    
+    margin: auto;
+    width: 65%;
+
+    padding: 10px;
+
+    text-align: justify;
+}
+
+figure{
+
+	position: relative;
+
+	margin: auto;
+
+}
+
+#bookImg{
+
+	width: 100%;
+
+}
+
+h2{
+
+	font-family: impact;
+
+	font-size: 30px;
+
+}
+
+footer{
+
+	font-family: monospace;
+
+	width: 80%;
+
+	padding: 10px;
+
+	color: white;
+
+	margin: auto;
+
+	text-align: center;
+
+}
+
+div{
+
+	display: inline-block;
+	
+}
